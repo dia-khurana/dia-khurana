@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dia Khurana</h1>
 <h3 align="center">AI Enthusiast | AIML Developer|Passionate about leveraging AI to solve complex problems. Currently building innovative ML models for real-world applications.</h3>
-<img src="https://www.google.com/imgres?q=developer%20coding%20banner&imgurl=https%3A%2F%2Fas1.ftcdn.net%2Fv2%2Fjpg%2F03%2F52%2F39%2F00%2F1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fprogramming-code-abstract-technology-background-of-software-developer-and-computer-script-banner-3d-illustration%2F352390061&docid=EMabKSy_csjUmM&tbnid=IKBMmYfVSQ-j4M&vet=12ahUKEwiXka7Xn8SGAxVR1jgGHXUNDZAQM3oECBsQAA..i&w=1000&h=350&hcb=2&ved=2ahUKEwiXka7Xn8SGAxVR1jgGHXUNDZAQM3oECBsQAA" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dia-khurana&label=Profile%20views&color=0e75b6&style=flat" alt="dia-khurana" /> </p>
 
